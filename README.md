@@ -2,6 +2,12 @@
 
 A beginner-friendly React mini project for exploring sample student internship opportunities and tracking application progress.
 
+## Live website
+
+[Open Student Job Tracker](https://thaufick18.github.io/studentrepository/)
+
+GitHub Actions deploys the site when changes are pushed to `main`.
+
 > The internship listings are sample records for demonstration only. They are not verified live vacancies.
 
 ## Features
