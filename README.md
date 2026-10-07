@@ -4,7 +4,8 @@ A beginner-friendly React mini project for exploring sample student internship o
 
 ## Live website
 
-[Open Student Job Tracker](https://thaufick18.github.io/studentrepository/)
+[Open Student Job Tracker](https://thaufick18.github.io/studentrepository/) 
+https://thaufick18.github.io/studentrepository/
 
 GitHub Actions deploys the site when changes are pushed to `main`.
 
